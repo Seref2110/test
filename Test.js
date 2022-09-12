@@ -7,8 +7,8 @@ var options = {
   "path": "/economy/currencyToAll?int=10&base=USD",
   "headers": {
     "content-type": "application/json",
-    "authorization": "apikey your_token"
-  }
+    "authorization": "apikey 4KdfbtgTKrlOAjuZ6iMUYJ:0sU97fUgBwgnG1LKRB34rb"
+
 };
 
 var req = http.request(options, function (res) {
